@@ -8,7 +8,14 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@here/harp-map-controls": "^0.15.0",
+    "@here/harp-mapview": "^0.15.0",
+    "@here/harp-omv-datasource": "^0.15.0",
+    "cannon": "^0.6.2",
     "core-js": "^3.6.4",
+    "geojson": "^0.5.0",
+    "three": "^0.115.0",
+    "three-gltf-loader": "^1.111.0",
     "vue": "^2.6.11"
   },
   "devDependencies": {
